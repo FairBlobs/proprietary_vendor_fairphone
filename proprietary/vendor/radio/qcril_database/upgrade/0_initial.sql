@@ -272,6 +272,9 @@ INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('231','01','911','','');
 INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('231','01','112','','');
 INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('214','03','112','','');
 INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('214','03','911','','');
+/*<20200318-LindaGuo,Add emergency number 016 for Orange ES. */
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('214','03','016','','');
+/*>20200318-LindaGuo. */
 INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','01','911','','');
 INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','01','112','','');
 INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('334','020','060','','');
